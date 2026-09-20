@@ -29,7 +29,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=700&lines=Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Improve+%E2%86%92+Repeat" />
 
 </div>
-## 👨‍💻 About Me
+
+
+👨‍💻 About Me
 
 I'm a final-year **Artificial Intelligence and Machine Learning student** passionate about building practical software and AI-powered applications.
 
