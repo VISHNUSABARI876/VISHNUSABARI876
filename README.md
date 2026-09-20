@@ -9,8 +9,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/vishnusabarivadivel">
-   <img src="https://img.shields.io/badge/💼%20LINKEDIN-style=for-the-badge&labelColor=111827" />
-</a>
+ <img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&labelColor=111827" /></a>
 
 <a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/✉️%20EMAIL-Contact%20Me" />
