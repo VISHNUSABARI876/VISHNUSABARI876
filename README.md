@@ -5,15 +5,15 @@
 <p align="left">
 
 <a href="https://vishnusabari.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20" />
 </a>
 
 <a href="https://www.linkedin.com/in/vishnusabarivadivel">
-  <img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/💼%20LINKEDIN" />
 </a>
 
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/✉️%20EMAIL-Contact%20Me-EA4335?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/✉️%20EMAIL-Contact%20Me" />
 </a>
 
 </p>
